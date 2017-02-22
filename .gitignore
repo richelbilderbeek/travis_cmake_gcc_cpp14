@@ -15,7 +15,6 @@
 
 # Fortran module files
 *.mod
-*.smod
 
 # Compiled Static libraries
 *.lai
@@ -27,3 +26,14 @@
 *.exe
 *.out
 *.app
+*.gcda
+Makefile
+*.gcov
+*.gcda
+*.gcno
+*.pro.user
+travis_qmake_gcc_cpp14
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+travis_cmake_gcc_cpp14
