@@ -47,7 +47,7 @@ More complex builds:
 
 Builds of similar complexity:
 
- * Use `qmake` instead of `cmake`: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14) Use `clang` instead of `gcc`: [travis_qmake_gcc_cpp14](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14) Use `qmake` instead of `cmake`
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_cmake_clang_cpp14.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_cmake_clang_cpp14) Use `clang` instead of `gcc`: [travis_cmake_clang_cpp14](https://www.github.com/richelbilderbeek/travis_cmake_clang_cpp14)
 
 Less complex builds:
